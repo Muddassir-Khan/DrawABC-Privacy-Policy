@@ -1,5 +1,3 @@
-## Draw ABC Privacy Policy
-
 In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
 
 Owner and Data Controller Types of Data collected The owner does not provide a list of Personal Data types collected.
