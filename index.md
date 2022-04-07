@@ -1,8 +1,4 @@
-This is the privacy policy of the Draw ABC Android application.
-
-### Appropriate for Children Under 5:
-
-All of the content in this application is appropriate for children. The user is prompted to draw alphabets from A till Z and the application verifies the user's drawing based on Machine Learning models that are executed using Google's ML-Kit.
+This is the privacy policy of the Al Quran Android application.
 
 ### Data Collection:
 
@@ -15,3 +11,5 @@ This application does not collect any personal data from the user. The only data
 ### Ads:
 
 This application doesn't show any ads to the user.
+
+
